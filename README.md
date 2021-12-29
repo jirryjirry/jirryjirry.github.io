@@ -2,7 +2,7 @@
 Copyright 2021 - 2022 Shenzhen JirryJirry Technology Co., Ltd. All Rights Reserved
 
 ## What is my Name
-In Chinses:
+In Chinese:
 ```
 深圳市杰里杰里科技有限公司
 ```
