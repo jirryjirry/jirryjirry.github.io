@@ -1,6 +1,15 @@
 ## Copyright
 Copyright 2021 - 2022 Shenzhen JirryJirry Technology Co., Ltd. All Rights Reserved
 
+## What is my Name
+In Chinses:
+```
+深圳市杰里杰里科技有限公司
+```
+In English:
+```
+Shenzhen JirryJirry Technology Co., Ltd. 
+```
 
 ## Welcome to Jirry Jirry
 
